@@ -1,5 +1,4 @@
 ### Hola Mundo! 👋
-Estudiante de Talleres Don Bosco
 :octocat:
 <!--
 **FerPert/FerPert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
